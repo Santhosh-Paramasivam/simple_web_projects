@@ -1,0 +1,57 @@
+body
+{
+    background-color:cornflowerblue;
+}
+
+h1#title
+{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+}
+
+div#title-div
+{
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -10px;
+    margin-bottom: -100px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+#question
+{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+}
+
+button.answer-button
+{
+    padding: 20 40 20 40;
+    width: 300px;
+    border-radius: 20px;
+    border-collapse: collapse;
+    border-width: 0px;
+    color: cornflowerblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p#victory
+{
+    font-size: 20px;
+    text-align: center;
+    color: cornflowerblue;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -10px;
+    margin-bottom: -100px;
+    margin-left: -10px;
+    margin-right: -10px;
+    vertical-align: middle;
+}
