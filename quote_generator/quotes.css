@@ -1,0 +1,14 @@
+p
+{
+    color:blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button
+{
+    color: white;
+    background-color: blueviolet;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 10px;
+}
